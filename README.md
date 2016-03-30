@@ -13,4 +13,4 @@ User will have choice for following frameworks to start with basic skeleton as p
 5. Sailsjs + Angular
 6. Zend + Angular
 7. Laravel + Angular
-------------------------------------------------------------------- 
+
